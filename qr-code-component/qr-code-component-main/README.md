@@ -27,6 +27,9 @@ This project creates a responsive QR code landing page for a website using HTML 
  - [Used Fonts](https://fonts.google.com/specimen/Outfit)
  - [Advisory Website.](https://www.w3schools.com/)
 
+## Links
+
+[Live Site URL](https://qr-code-landingpage.netlify.app/)
 
 ## Lessons Learned
 
